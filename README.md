@@ -1,5 +1,7 @@
 ## Hi there, I'm Viacheslav Komarov 👋
 # Junior Data Scientist
 **About me:**
-- iwecncl
+- 🧐 I'm currently learning Data Science
+- 🧑‍💻 I have a lot of educational projects
+- 🎓 Studying data analysis at university
 
