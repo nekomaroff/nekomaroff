@@ -7,6 +7,6 @@
 - 🎓 Studying data analysis at university
 
 ## Languages and Tools
-![Фото](https://img.icons8.com/?size=100&id=13441&format=png&color=000000) ![Фото](![image](https://github.com/user-attachments/assets/7806ed12-efb8-416f-8d34-e2584fef1c02)
-)
+![Фото](https://img.icons8.com/?size=100&id=13441&format=png&color=000000) 
+![Фото](![image](https://github.com/user-attachments/assets/7806ed12-efb8-416f-8d34-e2584fef1c02))
 
