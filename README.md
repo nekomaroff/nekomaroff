@@ -14,9 +14,9 @@
 
 ## Coonect with me
 ![image](https://github.com/user-attachments/assets/a928c098-2e9b-4231-b228-a57066972003) [@nekomarof](https://t.me/nekomarof)
-![image](https://github.com/user-attachments/assets/58abb308-62c5-409a-9aa3-b9fd622141b4) id483498355
+![image](https://github.com/user-attachments/assets/58abb308-62c5-409a-9aa3-b9fd622141b4) [id483498355](https://vk.com/id483498355)
 
-https://vk.com/id483498355
+
 
 
 
