@@ -12,7 +12,7 @@
 ![image](https://github.com/user-attachments/assets/b97ec67d-aeab-4b95-8f16-7c60e4988bd0)
 ![image](https://github.com/user-attachments/assets/74e7bb18-59a9-469b-b564-db60674e7d1b)
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="40" style="fill:#3776AB"/>
+![Skills](https://skillicons.dev/icons?i=python,pandas,numpy,sql,postgres,git,jupyter)
 
 ## Coonect with me
 ![image](https://github.com/user-attachments/assets/a928c098-2e9b-4231-b228-a57066972003) [@nekomarof](https://t.me/nekomarof)
