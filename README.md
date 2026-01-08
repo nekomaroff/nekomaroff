@@ -1,5 +1,5 @@
 ## Hi there, I'm Viacheslav Komarov 👋
-**Data Scientist / Analyst**
+**Data Analyst / Scientist**
 
 ## About me
 📊 Analytics, forecasting, and data-driven decision making  
